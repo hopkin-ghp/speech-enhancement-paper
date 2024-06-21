@@ -59,6 +59,8 @@
 
 10、⭐GTCRN: A Speech Enhancement Model Requiring Ultralow Computational Resources. 2024ICASSP [【PDF】](https://ieeexplore.ieee.org/document/10448310). 
 
+11、⭐D2Former: a Fully Complex Dual-Path Dual-Decoder Conformer Network Using Joint Complex Masking and Complex Spectral Mapping for Monaural Speech Enhancement. 2023ICASSP [【PDF】](https://arxiv.org/pdf/2302.11832). 
+
 ## 六、其他
 1、⭐Real Time Speech Enhancement in the Waveform Domain. 2020.[【PDF】](https://arxiv.org/pdf/2006.12847).[【code】](https://github.com/facebookresearch/denoiser).  
 

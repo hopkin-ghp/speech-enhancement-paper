@@ -1,5 +1,5 @@
 # speech-enhanced-paper 语音增强论文
-
+⭐博客推荐：https://www.cnblogs.com/LXP-Never/category/2067387.html
 ## 一、全子带论文
 1、⭐FULLSUBNET: A FULL-BAND AND SUB-BAND FUSION MODEL FOR REAL-TIME SINGLE-CHANNEL SPEECH ENHANCEMENT.2021. [【PDF】](https://arxiv.org/pdf/2010.15508).[【code】](https://github.com/Audio-WestlakeU/FullSubNet)  
 

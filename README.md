@@ -1,4 +1,4 @@
-# speech-enhanced-paper 语音增强论文
+# speech-enhancement-paper 语音增强论文
 ⭐博客推荐：https://www.cnblogs.com/LXP-Never/category/2067387.html
 
 ## 一、全子带论文

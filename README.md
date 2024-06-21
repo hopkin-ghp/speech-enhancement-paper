@@ -1,5 +1,6 @@
 # speech-enhanced-paper 语音增强论文
 ⭐博客推荐：https://www.cnblogs.com/LXP-Never/category/2067387.html
+
 ## 一、全子带论文
 1、⭐FULLSUBNET: A FULL-BAND AND SUB-BAND FUSION MODEL FOR REAL-TIME SINGLE-CHANNEL SPEECH ENHANCEMENT.2021. [【PDF】](https://arxiv.org/pdf/2010.15508).[【code】](https://github.com/Audio-WestlakeU/FullSubNet)  
 
@@ -8,6 +9,8 @@
 3、Deep Subband Network for Joint Suppression of Echo, Noise and Reverberation in Real-Time Fullband Speech Communication.2023. [【PDF】](https://www.researchgate.net/publication/368665735_Deep_Subband_Network_for_Joint_Suppression_of_Echo_Noise_and_Reverberation_in_Real-Time_Fullband_Speech_Communication).[【code】](https://github.com/ffxiong/stsubnet)  
 
 4、Lightweight Full-band and Sub-band Fusion Network for Real Time Speech Enhancement.2023. [【PDF】](https://www.semanticscholar.org/paper/Lightweight-Full-band-and-Sub-band-Fusion-Network-Chen-Zhang/4b46ee4cff1ed0ed1bb7f2fd87e8136f63c61d29).  
+
+5、⭐FullSubNet+: Channel Attention Fullsubnet with Complex Spectrograms for Speech Enhancement.2022. [【PDF】](https://arxiv.org/pdf/2203.12188).  
 
 ## 二、DNS-challenge比赛论文
 1、⭐DCCRN: Deep Complex Convolution Recurrent Network for Phase-Aware Speech Enhancement. 2020.[【PDF】](https://arxiv.org/pdf/2008.00264)[【code】](https://github.com/huyanxin/DeepComplexCRN).  
@@ -38,6 +41,33 @@
 ## 五、2023、2024最新论文
 1、MUSE: Flexible Voiceprint Receptive Fields and Multi-Path Fusion Enhanced Taylor Transformer for U-Net-based Speech Enhancement. 2024.[【PDF】](https://arxiv.org/pdf/2406.04589).[【code】](https://github.com/huaidanquede/MUSE-Speech-Enhancement)  
 
-2、Mel-FullSubNet: Mel-Spectrogram Enhancement for Improving Both Speech Quality and ASR. 2024.[【PDF】](https://arxiv.org/pdf/2402.13511).
+2、Mel-FullSubNet: Mel-Spectrogram Enhancement for Improving Both Speech Quality and ASR. 2024.[【PDF】](https://arxiv.org/pdf/2402.13511).  
+
+3、SICRN: Advancing Speech Enhancement through State Space Model and Inplace Convolution Techniques. 2024ICASSP [【PDF】](https://arxiv.org/pdf/2402.14225).  
+
+4、The PESQetarian: On the Relevance of Goodhart's Law for Speech Enhancement. 2024INTERSPEECH [【PDF】](https://arxiv.org/pdf/2406.03460).  
+
+5、An Exploration of Length Generalization in Transformer-Based Speech Enhancement. 2024INTERSPEECH [【PDF】](https://arxiv.org/pdf/2406.11401). 
+
+6、PLDNet: PLD-Guided Lightweight Deep Network Boosted by Efficient Attention for Handheld Dual-Microphone Speech Enhancement. 2024INTERSPEECH [【PDF】](https://arxiv.org/pdf/2406.11401). 
+
+7、Reference Channel Selection by Multi-Channel Masking for End-to-End Multi-Channel Speech Enhancement. 2024 [【PDF】](https://arxiv.org/pdf/2406.03228). 
+
+8、⭐A Two-Stage Framework in Cross-Spectrum Domain for Real-Time Speech Enhancement. 2024ICASSP [【PDF】](https://arxiv.org/pdf/2401.10494). 
+
+9、⭐On real-time multi-stage speech enhancement systems. 2024ICASSP [【PDF】](https://arxiv.org/pdf/2312.12415). 
+
+10、⭐GTCRN: A Speech Enhancement Model Requiring Ultralow Computational Resources. 2024ICASSP [【PDF】](https://ieeexplore.ieee.org/document/10448310). 
+
 ## 六、其他
 1、⭐Real Time Speech Enhancement in the Waveform Domain. 2020.[【PDF】](https://arxiv.org/pdf/2006.12847).[【code】](https://github.com/facebookresearch/denoiser).  
+
+2、Glance and gaze: A collaborative learning framework for single-channel speech enhancement.  
+
+3、SPEECH DENOISING IN THE WAVEFORM DOMAIN WITH SELF-ATTENTION.  
+
+4、Learning Complex Spectral Mapping With Gated Convolutional Recurrent Networks for Monaural Speech Enhancement.  
+
+5、Inter-Subnet: Speech Enhancement with Subband Interaction.  
+
+6、Speech Enhancement with Fullband-Subband Cross-Attention Network.  
